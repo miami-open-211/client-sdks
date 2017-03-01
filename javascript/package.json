@@ -1,0 +1,18 @@
+{
+  "name": "miami_open_211_api",
+  "version": "1.0.0",
+  "description": "This_is_a_developer_area_for_the_Miami_Open211_API_providing_access_to_the_raw_data_behind_the_Switchboard_of_Miami_website__The_purpose_of_this_API_is_to_allow_anyone_to_develop_web_mobile_or_other_types_of_applications_that_serve_the_mission_of_Miami_Open211_",
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "dependencies": {
+    "superagent": "1.7.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "sinon": "1.17.3",
+    "expect.js": "~0.3.1"
+  }
+}
